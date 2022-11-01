@@ -3,7 +3,7 @@ Hi, I'm Shivansh Vasu!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 
-## I'm a Full Stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />, Graphics Designer and An Explorer!<img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
+## I'm a Full Stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /> and An Explorer!<img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 - 👨🏻‍💻 Developer with knowledge in multiple fields!🤞
 - 🔭 I’m currently a student🌱! 
 - 🌱 I’m currently learning everything 🤣
