@@ -4,7 +4,7 @@ Hi, I'm Shivansh Vasu!
 
 
 ## I'm a Full Stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /> and An Explorer!<img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
-- 👨🏻‍💻 Developer with knowledge in multiple fields!🤞
+- 👨🏻‍💻 Developer with knowledge in multiple fields! 🤞
 - 🔭 I’m currently a student🌱! 
 - 🌱 I’m currently learning everything 🤣
 - 💡 I love innovation and new technologies ❤
